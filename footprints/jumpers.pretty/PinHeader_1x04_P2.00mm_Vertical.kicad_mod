@@ -6,7 +6,7 @@
 	(descr "Through hole straight pin header, 1x04, 2.00mm pitch, single row")
 	(tags "Through hole pin header THT 1x04 2.00mm single row")
 	(property "Reference" "REF**"
-		(at 0 -2.06 0)
+		(at 0 -2 0)
 		(layer "F.SilkS")
 		(uuid "8c7bc259-69a5-4ac1-8959-919a828aff97")
 		(effects
@@ -126,46 +126,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "31e25fa5-ab87-42c4-a2a9-71083b29ceb2")
-	)
-	(fp_line
-		(start -1.5 -1.5)
-		(end -1.5 7.5)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "03256c37-09ed-410f-b034-d090bd993a5e")
-	)
-	(fp_line
-		(start -1.5 7.5)
-		(end 1.5 7.5)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "f85ab776-f0c3-49dd-a5c8-cb83bb3caaa5")
-	)
-	(fp_line
-		(start 1.5 -1.5)
-		(end -1.5 -1.5)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "062a09b0-8bcd-4941-80fa-152b1c77ce36")
-	)
-	(fp_line
-		(start 1.5 7.5)
-		(end 1.5 -1.5)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "0f8468f2-0669-4ccb-9918-50d83b9b9c1c")
 	)
 	(fp_line
 		(start -1 -0.5)

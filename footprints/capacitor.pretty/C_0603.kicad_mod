@@ -6,7 +6,7 @@
 	(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 	(tags "capacitor")
 	(property "Reference" "REF**"
-		(at 0 -1.43 0)
+		(at 0 -1.5 0)
 		(layer "F.SilkS")
 		(uuid "d8b50c90-0233-4120-8eb7-fd37553c1dae")
 		(effects
@@ -86,46 +86,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "8759eb8b-d5d2-4193-bb44-b0d3205730c7")
-	)
-	(fp_line
-		(start -1.48 -0.73)
-		(end 1.48 -0.73)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "bc329fd9-c699-40fd-809e-176f9fd0c1d5")
-	)
-	(fp_line
-		(start -1.48 0.73)
-		(end -1.48 -0.73)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "40f7c129-7117-4932-921f-63d9649a8e3c")
-	)
-	(fp_line
-		(start 1.48 -0.73)
-		(end 1.48 0.73)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "4cdf0691-68d0-4b9c-a08d-e458d11a6264")
-	)
-	(fp_line
-		(start 1.48 0.73)
-		(end -1.48 0.73)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "c885676b-37fb-4c12-bfd6-27ae9c8dfd4f")
 	)
 	(fp_line
 		(start -0.8 -0.4)

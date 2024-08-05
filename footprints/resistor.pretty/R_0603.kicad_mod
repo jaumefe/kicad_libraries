@@ -6,7 +6,7 @@
 	(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 	(tags "resistor")
 	(property "Reference" "REF**"
-		(at 0 -1.43 0)
+		(at 0 -1.5 0)
 		(layer "F.SilkS")
 		(uuid "6df974b4-b819-4abf-a570-cfac24b90f22")
 		(effects
@@ -86,46 +86,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "2bf1d867-cdfa-44dc-9124-ce584dcd094b")
-	)
-	(fp_line
-		(start -1.48 -0.73)
-		(end 1.48 -0.73)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "24e272be-4051-4b9b-9127-1c7f22532469")
-	)
-	(fp_line
-		(start -1.48 0.73)
-		(end -1.48 -0.73)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "39fddbf8-ad85-4516-95fc-b7f57b1b5476")
-	)
-	(fp_line
-		(start 1.48 -0.73)
-		(end 1.48 0.73)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "2bbe1e5e-3213-443e-930c-a0ae97a345e1")
-	)
-	(fp_line
-		(start 1.48 0.73)
-		(end -1.48 0.73)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "dc275714-5365-4c02-a2fb-5cbd77201d52")
 	)
 	(fp_line
 		(start -0.8 -0.4125)
